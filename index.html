@@ -41,6 +41,7 @@
         line-height: 16px;
         border: none;
         border-radius: 4px;
+        cursor: pointer;
     }
 
     button svg {
@@ -73,12 +74,20 @@
 
 
 <script>
+// Add an event listener to the `copy_button` element
 document.getElementById(`copy_button`).addEventListener(`click`, function() {
+
+    // Retrieve the `textarea` element
     const textarea = document.getElementById(`textarea`);
+
+    // Select the text inside the textarea
     textarea.select();
+
+    // Copy the selected text to the clipboard
     document.execCommand(`copy`);
 
-    // Change button content to "Copied!"
+    // Change the inner HTML of the button to display a checkmark and the text `Copied!`
+    // This is to provide visual feedback to the user that the text has been copied
     this.innerHTML = `
 
         <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-sm">
@@ -89,7 +98,8 @@ document.getElementById(`copy_button`).addEventListener(`click`, function() {
 
     `;
 
-    // After 2 seconds, revert back to the original button content
+    // Set a timeout to revert the button content back to its original state after 2 seconds
+    // This gives the user enough time to see the `Copied!` message before it disappears
     setTimeout(() => {
 
         this.innerHTML = `
