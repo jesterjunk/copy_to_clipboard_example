@@ -23,6 +23,8 @@ HTML, CSS, and JavaScript<br>
 └────────┬────────┘<br>
 index.html
 
+<a href="https://raw.githubusercontent.com/jesterjunk/copy_to_clipboard_example/master/index.html">raw</a>
+
 </div>
 
 ```html
