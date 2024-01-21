@@ -9,7 +9,7 @@
 
 </h4>
 
-<img src="copy_to_clipboard_example.gif" alt="copy_to_clipboard_example.gif" title="copy_to_clipboard_example.gif">
+<img width="630px" src="copy_to_clipboard_example.gif" alt="copy_to_clipboard_example.gif" title="copy_to_clipboard_example.gif">
 
 <h4>
 
