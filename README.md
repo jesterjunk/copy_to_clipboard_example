@@ -1,17 +1,19 @@
+<a href="https://ko-fi.com/jesterjunk"><img src="https://gist.githubusercontent.com/jesterjunk/0aca4f4868b988d37e8a08e5c3fbe341/raw/76d6a5f562ccb26b78a5c09a9ffbd650a8dafa28/01_ko-fi.com_favicon_898x32_v01.png"></a>
+
 <div align="center">
 
 <h4>
 
-<br><br>demo<br><br>
+<br>Demo on GitHub Pages<br><br>
 [https://jesterjunk.github.io/copy_to_clipboard_example/](https://jesterjunk.github.io/copy_to_clipboard_example/)<br><br>
 
 </h4>
 
-![copy_to_clipboard_example.gif](copy_to_clipboard_example.gif)
+<img src="https://gist.github.com/jesterjunk/13c494e167cef952f0c7c42a750b4d11/raw/6821d5a3d91a4fba013f8f5c5e5af7252317c97b/01_copy_to_clipboard_example.gif" alt="https://gist.github.com/jesterjunk/13c494e167cef952f0c7c42a750b4d11/raw/6821d5a3d91a4fba013f8f5c5e5af7252317c97b/01_copy_to_clipboard_example.gif" title="https://gist.github.com/jesterjunk/13c494e167cef952f0c7c42a750b4d11/raw/6821d5a3d91a4fba013f8f5c5e5af7252317c97b/01_copy_to_clipboard_example.gif">
 
 <h4>
 
-<br><br>source code<br><br>
+<br><br>Source Code on Gist<br><br>[https://gist.github.com/jesterjunk/13c494e167cef952f0c7c42a750b4d11](https://gist.github.com/jesterjunk/13c494e167cef952f0c7c42a750b4d11)<br><br>
 
 </h4>
 
