@@ -9,7 +9,7 @@
 
 </h4>
 
-<img src="https://gist.github.com/jesterjunk/13c494e167cef952f0c7c42a750b4d11/raw/6821d5a3d91a4fba013f8f5c5e5af7252317c97b/01_copy_to_clipboard_example.gif" alt="https://gist.github.com/jesterjunk/13c494e167cef952f0c7c42a750b4d11/raw/6821d5a3d91a4fba013f8f5c5e5af7252317c97b/01_copy_to_clipboard_example.gif" title="https://gist.github.com/jesterjunk/13c494e167cef952f0c7c42a750b4d11/raw/6821d5a3d91a4fba013f8f5c5e5af7252317c97b/01_copy_to_clipboard_example.gif">
+<img src="copy_to_clipboard_example.gif" alt="copy_to_clipboard_example.gif" title="copy_to_clipboard_example.gif">
 
 <h4>
 
